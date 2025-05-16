@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Olá, eu sou a Laíssa Soares!  
 
 🎯 **Engenheira de Dados | Python • SQL • HUE • Airflow • Matemática Aplicada**
 
