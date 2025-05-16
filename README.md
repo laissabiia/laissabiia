@@ -50,7 +50,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laissabiia)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:laissabiia@gmail.com)
 
 </div>
----
 
 <!-- ## 📈 Stats & Atividades
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laissabiia&show_icons=true&theme=default&hide_title=true&count_private=true)
