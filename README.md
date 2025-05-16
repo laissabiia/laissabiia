@@ -25,7 +25,7 @@ Atuo com tecnologias modernas e estou sempre em busca de aprender e aplicar boas
 
 ---
 
-## 📈 Stats & Atividades
+<!-- ## 📈 Stats & Atividades
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laissabiia&show_icons=true&theme=default&hide_title=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laissabiia&layout=compact&hide_title=true)
 
@@ -39,7 +39,7 @@ Atuo com tecnologias modernas e estou sempre em busca de aprender e aplicar boas
 | **[Nome do Projeto 2](link-do-repo)** | Análise exploratória de dados e visualizações interativas | SQL • Pandas • Matplotlib |
 | **[Nome do Projeto 3](link-do-repo)** | Automação de processos com Airflow e integração com Hive/Impala | Airflow • Hive • Impala |
 
----
+--- -->
 
 ## ✨ O que estou aprendendo agora
 - 🟢 Estudando **Cloud (AWS)** para dados
