@@ -1,28 +1,56 @@
 # 👋 Olá, eu sou a Laíssa Soares!  
 
-🎯 **Engenheira de Dados | Python • SQL • HUE • Airflow • Matemática Aplicada**
+🎯 **Engenheira de Dados Jr. | Python • SQL • PySpark • HUE • Airflow • Matemática Aplicada**
 
 ---
 
 ## 🚀 Sobre mim
-Sou apaixonado(a) por transformar dados em informações relevantes para a tomada de decisão. Tenho experiência em manipulação, análise e orquestração de dados em ambientes de grande volume, sempre com foco em soluções eficientes e escaláveis.
-
-Atuo com tecnologias modernas e estou sempre em busca de aprender e aplicar boas práticas de engenharia de dados, ciência de dados e automação de processos.
+📚 Formada em Matemática - UnB
+📚 Graduanda de Ciência da Computação - UnB
+📊 Engenheira de Dados Jr. na Vert Analytics 
+😉 Iniciei minha caminhada profissional na Tecnologia em 2024 após cinco anos dedicados ao ensino de Matemática na Educação Básica. Por isso, nesse perfil também tem bastante material voltado para o ensino de Computação alinhada à Matemática
 
 ---
 
 ## 🛠️ Minhas Habilidades
 
-| 💻 Linguagens & Ferramentas | ⚙️ Tecnologias & Frameworks | 📊 Análise & Modelagem |
-|----------------------------|----------------------------|-----------------------|
-| Python • SQL                | PySpark • Airflow • HUE (Impala & Hive) | Estatística • EDA • Modelos Preditivos |
-| Git • GitHub • GitLab       | Shell Script (básico)      | Data Wrangling • Storytelling |
+<div align="center">
+
+  <!-- Linguagens & Ferramentas -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  
+  <!-- Big Data -->
+  <img src="https://img.shields.io/badge/Impala-1E90FF?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matemática%20%26%20Estatística-4B0082?style=for-the-badge&logo=academia&logoColor=white"/>
+  
+  <!-- Bancos de Dados -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <!-- DevOps & Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  
+</div>
+
 
 ---
 
 ## 🔗 Minhas Redes
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laissabiia)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:laissabiia@gmail.com)
 
+</div>
 ---
 
 <!-- ## 📈 Stats & Atividades
@@ -42,6 +70,6 @@ Atuo com tecnologias modernas e estou sempre em busca de aprender e aplicar boas
 --- -->
 
 ## ✨ O que estou aprendendo agora
-- 🟢 Estudando **Cloud (AWS)** para dados
+- 🟢 **Cloud (AWS)** para dados
 - 🟢 Práticas de **DataOps & CI/CD para pipelines de dados**
 - 🟢 Exploração de **Machine Learning aplicado à Engenharia de Dados**
