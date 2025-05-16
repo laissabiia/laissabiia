@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 Sobre mim
-📚 Formada em Matemática - UnB
-📚 Graduanda de Ciência da Computação - UnB
-📊 Engenheira de Dados Jr. na Vert Analytics 
-😉 Iniciei minha caminhada profissional na Tecnologia em 2024 após cinco anos dedicados ao ensino de Matemática na Educação Básica. Por isso, nesse perfil também tem bastante material voltado para o ensino de Computação alinhada à Matemática
+📚 Formada em Matemática - UnB<br>
+📚 Graduanda de Ciência da Computação - UnB<br>
+📊 Engenheira de Dados Jr. na Vert Analytics <br>
+😉 Iniciei minha caminhada profissional na Tecnologia em 2024 após cinco anos dedicados ao ensino de Matemática na Educação Básica. Por isso, nesse perfil também tem bastante material voltado para o ensino de Computação alinhada à Matemática<br>
 
 ---
 
@@ -47,8 +47,7 @@
 ## 🔗 Minhas Redes
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laissabiia)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:laissabiia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laissabiia)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:laissabiia@gmail.com)
 
 </div>
 ---
