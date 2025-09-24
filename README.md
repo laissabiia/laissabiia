@@ -1,4 +1,4 @@
-🎯 **Engenheira de Dados Jr. | SQL • Python • PySpark • HUE • Airflow • Matemática Aplicada**
+🎯 **Engenheira de Dados | SQL • Python • PySpark • HUE • Airflow • Matemática Aplicada**
 
 ---
 
@@ -6,7 +6,7 @@
 📚 Formada em Matemática - UnB<br>
 📚 Graduanda de Ciência da Computação - UnB<br>
 📊 Engenheira de Dados Jr. na Vert Analytics <br>
-😉 Iniciei minha caminhada profissional na Tecnologia em 2024, após cinco anos dedicados ao ensino de Matemática na Educação Básica. Por isso, nesse perfil além de artefatos da área de Tecnologia também tem material voltado para o ensino de Computação alinhada à Matemática<br>
+😉 Iniciei minha caminhada profissional na Tecnologia em 2024, após cinco anos dedicados ao ensino de Matemática na Educação Básica. Por isso, nesse perfil além de artefatos da área de Tecnologia também tem material voltado para o ensino de Computação alinhada à Matemática.<br>
 
 ---
 
