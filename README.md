@@ -1,76 +1,132 @@
-🎯 **Engenheira de Dados | SQL • Python • PySpark • HUE • Airflow • Matemática Aplicada**
+# 👋 Olá, prazer! Sou a Laíssa Soares.
+
+### 🎯 Engenheira de Dados | SQL • Python • PySpark • Databricks • Hadoop • NiFi • Analytics
+
+💡 *Transformando dados em soluções através da Engenharia de Dados, Matemática e Educação.*
 
 ---
 
 ## 🚀 Sobre mim
-📚 Formada em Matemática - UnB<br>
-📚 Graduanda de Ciência da Computação - UnB<br>
-📊 Engenheira de Dados Jr. na Vert Analytics <br>
-😉 Iniciei minha caminhada profissional na Tecnologia em 2024, após cinco anos dedicados ao ensino de Matemática na Educação Básica. Por isso, nesse perfil além de artefatos da área de Tecnologia também tem material voltado para o ensino de Computação alinhada à Matemática.<br>
+
+- 📚 Licenciada em Matemática pela Universidade de Brasília (UnB)
+
+- 📚 Graduanda em Computação pela Universidade de Brasília (UnB)
+
+- 🏦 Engenheira de Dados atuando na Plataforma de Redes do Banco do Brasil, através da Stefanini
+
+Possuo experiência no desenvolvimento e manutenção de pipelines de dados, processamento distribuído e análise de grandes volumes de informações em ambientes corporativos. Atualmente atuo em iniciativas de Data Lake, Analytics e Engenharia de Dados utilizando a ferramenta Databricks.
+
+Minha trajetória profissional combina cinco anos de experiência no ensino de Matemática com a atuação em Engenharia de Dados, permitindo unir raciocínio analítico, resolução de problemas e desenvolvimento de soluções orientadas por dados.
+
+Neste perfil você encontrará projetos relacionados à Engenharia de Dados, Computação, Matemática e Educação.
 
 ---
 
-## 🛠️ Minhas Habilidades
+## 💼 Experiência
+
+### 🏦 Banco do Brasil (via Stefanini)
+
+**Engenheira de Dados**
+
+* Desenvolvimento e manutenção de pipelines de dados;
+* Processamento distribuído utilizando PySpark;
+* Atuação no ambiente Databricks;
+* Manipulação e análise de grandes volumes de dados;
+* Apoio a iniciativas de Data Lake e Analytics;
+* Participação em equipes ágeis utilizando Kanban e ciclos de Sprint;
+* Colaboração em provas de conceito (POCs) e soluções orientadas a dados.
+
+### 🎓 Educação Básica
+
+**Professora de Matemática**
+
+* Experiência de 5 anos em sala de aula;
+* Integração entre Matemática e Computação;
+* Desenvolvimento de materiais didáticos e avaliações.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-  <!-- Linguagens & Ferramentas -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  
-  <!-- Big Data -->
-  <img src="https://img.shields.io/badge/Impala-1E90FF?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudera-EE9C3B?style=for-the-badge&logo=cloudera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  
-  <!-- Bancos de Dados -->
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  
-  <!-- DevOps & Versionamento -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-  <!-- Matemática -->
-  <img src="https://img.shields.io/badge/Matemática%20%26%20Estatística-4B0082?style=for-the-badge&logo=academia&logoColor=white"/>
-  
+<br><br>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+<img src="https://img.shields.io/badge/Impala-1E90FF?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUE-0F4C81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20NiFi-009639?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Lake-005571?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Matemática_&_Estatística-4B0082?style=for-the-badge"/>
+
 </div>
-
 
 ---
 
-## 🔗 Minhas Redes
+## 🌱 Atualmente estudando
+
+* 🚀 Engenharia de Dados com Databricks
+* 📊 Governança e Qualidade de Dados
+* 🤖 Machine Learning aplicado a ambientes corporativos
+
+---
+
+## 🔗 Conecte-se comigo
+
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laissabiia)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:laissabiia@gmail.com)
+
+<a href="https://www.linkedin.com/in/laissabiia">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:laissabiia@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<!-- ## 📈 Stats & Atividades
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laissabiia&show_icons=true&theme=default&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laissabiia&layout=compact&hide_title=true)
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=laissabiia&show_icons=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laissabiia&layout=compact"/>
+
+</div>
 
 ---
 
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|----------|-----------|-------------|
-| **[Nome do Projeto 1](link-do-repo)** | Pipeline de ETL com processamento de grandes volumes de dados | Python • PySpark • Airflow |
-| **[Nome do Projeto 2](link-do-repo)** | Análise exploratória de dados e visualizações interativas | SQL • Pandas • Matplotlib |
-| **[Nome do Projeto 3](link-do-repo)** | Automação de processos com Airflow e integração com Hive/Impala | Airflow • Hive • Impala |
-
---- -->
-
-## ✨ O que estou aprendendo agora
-🟢 **Cloud (AWS)** para dados<br>
-🟢 Práticas de **DataOps & CI/CD para pipelines de dados**<br>
-🟢 Exploração de **Machine Learning aplicado à Engenharia de Dados**<br>
+> *"A Matemática ensina a pensar. A Engenharia de Dados transforma esse pensamento em soluções."*
